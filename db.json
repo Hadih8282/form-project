@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productNme": "Book",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "comment": "its nice",
+      "price": 200,
+      "date": "2022-05-29T19:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productNme": "Book",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "comment": "its nice",
+      "price": 333,
+      "date": "2022-05-29T19:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productNme": "hadi",
+      "category": "Vagetables",
+      "freshness": "Second Hand",
+      "comment": "good",
+      "price": 444,
+      "date": "2022-05-22T19:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productNme": "dfgfg",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "comment": "45656546",
+      "price": 44,
+      "date": "2022-05-23T19:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
